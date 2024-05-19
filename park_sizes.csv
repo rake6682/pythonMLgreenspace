@@ -1,0 +1,288 @@
+,objectid,name,alias,gis_acres,park_type,location,owner,source_id,source,source_dt,src_notes
+71,72,Holiday Estates I Park,Holiday Estates I Park,0.24847606,Local,383 Connoley Cir,City of Chula Vista,219,City of Chula Vista,316, 
+78,79,Gayle L McCandliss Park,Gayle L Mccandliss Park,1.57650175,Local,415 E J St,City of Chula Vista,44,City of Chula Vista,316, 
+79,80,Sunbow Park,Sunbow Park,3.71346886,Local,500 E Naples St,City of Chula Vista,237,City of Chula Vista,316, 
+80,81,Lancerlot Park,Lancerlot Park,0.15553423,Local,750 K St,City of Chula Vista,205,City of Chula Vista,316, 
+81,82,Eucalyptus Park,Eucalyptus Park,19.6948089,Local,Fourth Av & C St,City of Chula Vista,201,City of Chula Vista,316, 
+82,83,Friendship Park,Friendship Park,3.78496417,Local,Fourth Av & F St,City of Chula Vista,202,City of Chula Vista,316, 
+83,84,Norman Park,Norman Park,1.41338696,Local,270 F St,City of Chula Vista,204,City of Chula Vista,316, 
+84,85,Chula Vista Women's Club,Chula Vista Women'S Club,0.3439236,Local,390 Garrett Av,City of Chula Vista,285,City of Chula Vista,316, 
+85,86,Memorial Park,Memorial Park,8.02061271,Local,373 Park Wy,City of Chula Vista,203,City of Chula Vista,316, 
+86,87,Bay Boulevard Park,Bay Boulevard Park,0.74907526,Local,F St & Bay Bl,City of Chula Vista,294,City of Chula Vista,316, 
+87,88,Bayside Park,Bayside Park,9.2874153,Local,Bayside Pw,SDUPD,236,City of Chula Vista,316, 
+88,89,Bayfront Park,Bayfront Park,10.45791652,Local,800 Marina Pkwy,SDUPD,98,City of Chula Vista,316, 
+89,90,Marina View Park,Marina View Park,5.92683044,Local,800 Marina Pkwy,SDUPD,207,City of Chula Vista,316, 
+97,98,Marisol Park,Marisol Park,5.01247168,Local,916 Rancho Del Rey Pkwy,City of Chula Vista,243,City of Chula Vista,316, 
+98,99,Terra Nova Park,Terra Nova Park,8.2751704,Local,450 Hidden Vista Dr,City of Chula Vista,230,City of Chula Vista,316, 
+99,100,Rohr Park,Rohr Park,59.90177914,Local,4548 Sweetwater Rd,City of Chula Vista,322,City of Chula Vista,316, 
+100,101,Discovery Park,Discovery Park,20.36818917,Local,700 Buena Vista Wy,City of Chula Vista,239,City of Chula Vista,316, 
+101,102,Loma Verde Park,Loma Verde Park,6.27671167,Local,1420 Loma Ln,City of Chula Vista,212,City of Chula Vista,316, 
+102,103,Rienstra Sports Complex,Rienstra Sports Complex,13.26060769,Local,1500 Max Av,City of Chula Vista,215,City of Chula Vista,316, 
+103,104,Los Ninos Park,Los Ninos Park,5.00923535,Local,150 Teal St,City of Chula Vista,216,City of Chula Vista,316, 
+104,105,Connoley Park,Connoley Park,0.66337874,Local,1559 Connoley Av,City of Chula Vista,217,City of Chula Vista,316, 
+105,106,Holiday Estates II Park,Holiday Estates Ii Park,0.21476508,Local,368 Connoley Cir,City of Chula Vista,218,City of Chula Vista,316, 
+106,107,Glen Park,Glen Park,4.44644753,Local,2149 Orinda Dr,City of Encinitas,23,City of Encinitas,216, 
+108,109,Wiro Park,Wiro Park,1.02331497,Local,2232 El Camino Del Norte,City of Encinitas,59,City of Encinitas,216, 
+109,110,Encinitas Viewpoint,Encinitas Viewpoint,2.41183951,Local,56 E D St,City of Encinitas,205,City of Encinitas,216, 
+110,111,Horizon Park,Horizon Park,5.62820966,Local,970 E Palomar St,City of Chula Vista,326,City of Chula Vista,316, 
+111,112,Sunridge Park,Sunridge Park,6.5841121,Local,952 Beechglen Dr,City of Chula Vista,231,City of Chula Vista,316, 
+114,115,Otay Park,Otay Park,4.254882,Local,1613 Albany Av,City of Chula Vista,220,City of Chula Vista,316, 
+115,116,Otay Gym & Rec Center,Otay Gym & Rec Center,1.32447132,Local,3554 Main St,City of Chula Vista,93,City of Chula Vista,316, 
+116,117,Valle Lindo Park,Valle Lindo Park,4.35259118,Local,545 Sequoia Dr,City of Chula Vista,221,City of Chula Vista,316, 
+117,118,Greg Rogers Park,Greg Rogers Park,27.32937354,Local,1189 Oleander Av,City of Chula Vista,210,City of Chula Vista,316, 
+118,119,Veterans Park,Veterans Park,10.028503,Local,785 E Palomar St,City of Chula Vista,323,City of Chula Vista,316, 
+128,129,Independence Park,Independence Park,4.60685034,Local,1248 Calle Santiago,City of Chula Vista,226,City of Chula Vista,316, 
+129,130,Rancho Del Rey Park North,Rancho Del Rey Park North,3.53217207,Local,1311 Buena Vista Wy,City of Chula Vista,35,City of Chula Vista,316, 
+130,131,Rancho Del Rey Finger,Rancho Del Rey Park Finger,0.69846912,Local,1311 Buena Vista Wy,City of Chula Vista,41,City of Chula Vista,316, 
+131,132,Rancho Del Rey South,Rancho Del Rey Park South,5.04336357,Local,1311 Buena Vista Wy,City of Chula Vista,224,City of Chula Vista,316, 
+132,133,Hilltop Park,Hilltop Park,9.30002972,Local,780 Hilltop Dr,City of Chula Vista,206,City of Chula Vista,316, 
+133,134,Harborside Park,Harborside Park,5.10771167,Local,670 Oxford St,City of Chula Vista,250,City of Chula Vista,316, 
+134,135,Lauderbach Park,Lauderbach Park,3.78933451,Local,333 Oxford St,City of Chula Vista,229,City of Chula Vista,316, 
+135,136,Palomar Park,Palomar Park,2.81098776,Local,1350 Park Dr,City of Chula Vista,214,City of Chula Vista,316, 
+136,137,Sherwood Park,Sherwood Park,0.29902796,Local,69 Sherwood St,City of Chula Vista,208,City of Chula Vista,316, 
+137,138,SDG&E West,Sdg&E West,9.33781069,Local,1450 Hilltop Dr,City of Chula Vista,213,City of Chula Vista,316, 
+138,139,SDG&E East,Sdg&E East,10.46652646,Local,1420 Loma Ln,City of Chula Vista,209,City of Chula Vista,316, 
+139,140,Explorer Park,Explorer Park,5.54709064,Local,Rancho Del Rey Py & Norella St,City of Chula Vista,241,City of Chula Vista,316, 
+142,143,Hawk View Park,Hawk View Park,1.86565175,Local,1309 Blue Heron Ave,City of Encinitas,203,City of Encinitas,216, 
+143,144,Sun Vista Park,Sun Vista Park,4.16829463,Local,2011 Avenida La Posta,City of Encinitas,753,City of Encinitas,216, 
+144,145,Little Oaks Equestrian Park,Little Oaks Equestrian Park,1.56836172,Other,2879 Lone Jack Rd,City of Encinitas,195,City of Encinitas,216, 
+145,146,Oak Crest Park,Oak Crest Park,6.4002874,Local,1219 Encinitas Blvd,City of Encinitas,800,City of Encinitas,216, 
+147,148,Mildred MacPherson Park,Mildred Macpherson Park,1.00797836,Local,1045 S Vulcan Ave,City of Encinitas,38,City of Encinitas,216, 
+148,149,MacKenzie Creek Park,Mackenzie Creek Park,6.82224498,Local,2775 Mackenzie Creek Rd,City of Chula Vista,244,City of Chula Vista,316, 
+149,150,Montevalle Park,Montevalle Park,27.44448313,Local,840 Duncan Ranch Rd,City of Chula Vista,346,City of Chula Vista,316, 
+150,151,Chula Vista Community Park,Chula Vista Community Park,13.98665528,Local,1060 Eastlake Pkwy,City of Chula Vista,240,City of Chula Vista,316, 
+151,152,Salt Creek Park,Salt Creek Park,23.23622743,Local,2710 Otay Lakes Rd,City of Chula Vista,324,City of Chula Vista,316, 
+152,153,Sunset View Park,Sunset View Park,11.76847958,Local,1390 S Greensview Dr,City of Chula Vista,238,City of Chula Vista,316, 
+159,160,Orpheus Park,Orpheus Park,2.64441973,Local,482 Orpheus Ave,City of Encinitas,110,City of Encinitas,216, 
+179,180,Paseo Del Rey Park,Paseo Del Rey Park,8.87854286,Local,750 Paseo Del Rey,City of Chula Vista,225,City of Chula Vista,316, 
+196,197,Windingwalk Park,Windingwalk Park,9.46718635,Local,1675 Exploration Falls Dr,City of Chula Vista,325,City of Chula Vista,316, 
+212,213,Ecke Sports Park,Ecke Sports Park,9.5630028,Local,278 Saxony Rd,City of Encinitas,107,City of Encinitas,216, 
+213,214,Voyager Park,Voyager Park,11.24624591,Local,1178 E J St,City of Chula Vista,242,City of Chula Vista,316, 
+214,215,Harvest Park,Harvest Park,6.71325475,Local,1550 E Palomar St,City of Chula Vista,109,City of Chula Vista,316, 
+215,216,Heritage Park,Heritage Park,10.7329028,Local,1381 E Palomar St,City of Chula Vista,234,City of Chula Vista,316, 
+216,217,Bonita Long Canyon Park,Bonita Long Canyon Park,11.95374162,Local,1745 Coltridge Ln,City of Chula Vista,232,City of Chula Vista,316, 
+217,218,Tiffany Park,Tiffany Park,6.694648,Local,1713 Elmhurst Av,City of Chula Vista,227,City of Chula Vista,316, 
+218,219,Breezewood Park,Breezewood Park,2.12325036,Local,1091 Breezewood Dr,City of Chula Vista,233,City of Chula Vista,316, 
+219,220,Cottonwood Park,Cottonwood Park,6.71061122,Local,1778 E Palomar St,City of Chula Vista,245,City of Chula Vista,316, 
+220,221,Santa Cora Park,Santa Cora Park,5.62723188,Local,1365 Santa Cora Av,City of Chula Vista,247,City of Chula Vista,316, 
+221,222,Santa Venetia Park,Santa Venetia Park,7.66898165,Local,1500 Magdalena Av,City of Chula Vista,248,City of Chula Vista,316, 
+222,223,All Seasons Park,All Seasons Park,7.60335732,Local,1825 Magdalena Av,City of Chula Vista,251,City of Chula Vista,316, 
+223,224,Mount San Miguel Park,Mount San Miguel Park,20.04441441,Local,2335 Paseo Veracruz,City of Chula Vista,1,City of Chula Vista,316, 
+224,225,Mountain Hawk Park,Mountain Hawk Park,12.86367225,Local,1475 Lake Crest Dr,City of Chula Vista,249,City of Chula Vista,316, 
+225,226,Leucadia Oaks Park,Leucadia Oaks Park,2.63700536,Local,1511 N Vulcan Ave,City of Encinitas,96,City of Encinitas,216, 
+229,230,Teeple Park,Teeple Park,0.71265959,Local,1121 Calla Ave,City of Imperial Beach,1,City of Imperial Beach,316, 
+230,231,Dunes Park,Dunes Park,1.33474901,Local,700 Seacoast Dr,City of Imperial Beach,2,City of Imperial Beach,316, 
+231,232,Veterans Park,Veterans Park,8.44656093,Local,1075 8th St,City of Imperial Beach,3,City of Imperial Beach,316, 
+232,233,Pier Plaza,Pier Plaza,0.95503154,Local,10 Evergreen Ave,City of Imperial Beach,4,City of Imperial Beach,316, 
+233,234,Reama Park,Reama Park,0.67585403,Local,210 Elkwood Ave,City of Imperial Beach,5,City of Imperial Beach,316, 
+234,235,Triangle Park,Triangle Park,0.35615797,Local,Palm Ave and Highway 75,City of Imperial Beach,6,City of Imperial Beach,316, 
+235,236,Sports Park,Sports Park,9.00044741,Local,441 Imperial Beach Blvd,City of Imperial Beach,7,City of Imperial Beach,316, 
+236,237,Serenity Gardens,Serenity Gardens,0.04190587,Local,659 Silver Strand Blvd,City of Imperial Beach,8,City of Imperial Beach,316, 
+237,238,Pocket Park,Pocket Park,0.19790221,Local,Palm Ave and Silver Strand Blvd,City of Imperial Beach,9,City of Imperial Beach,316, 
+256,257,Lakeview Park,Lakeview Park,0.59725507,Local,700 Foxhall Dr,City of San Marcos,PRK51,City of San Marcos,216, 
+257,258,Jack's Pond Park,Jack'S Pond Park,21.91222568,Local,986 La Moree Rd,City of San Marcos,PRK5,City of San Marcos,216, 
+258,259,Alder Glenn Park,Alder Glenn Park,0.40504855,Local,Park Creek Ct,City of San Marcos,PRK57,City of San Marcos,216, 
+259,260,Sage Pointe Park,Sage Pointe Park,0.13628881,Local,201 Autumn Dr,City of San Marcos,PRK58,City of San Marcos,216, 
+260,261,"BISHOP, MELBA PARK","Bishop, Melba Park",18.37262735,Local,5306 N River Road,City of Oceanside,111,Parks_Active_Use,211, 
+261,262,BUCCANEER BEACH PARK,Buccaneer Beach Park,2.3232549,Local,1506 South Pacific Street,City of Oceanside,121,Parks_Active_Use,211, 
+262,263,OAK RIPARIAN PARK,Oak Riparian Park,6.45879191,Local,4625 Lake Boulevard,City of Oceanside,332,Parks_Active_Use,211, 
+296,297,Summer Hill Park,Summer Hill Park,2.02859274,Local,Bel Esprit Cir,City of San Marcos,PRK39,City of San Marcos,216, 
+297,298,Double Peak Regional Park,Double Peak Regional Park,229.96252415,Local,900 Double Peak Dr,City of San Marcos,PRK41,City of San Marcos,216, 
+298,299,San Marcos Senior Center,San Marcos Senior Center,0.45385678,Local,Richmar Ave,City of San Marcos,PRK42,City of San Marcos,216, 
+299,300,San Marcos Community Services,San Marcos Community Services,0.82541673,Local,3 Civic Center Dr,City of San Marcos,PRK43,City of San Marcos,216, 
+300,301,Woodland Park,Woodland Park,14.67209388,Local,671 Woodland Pkwy,City of San Marcos,PRK47,City of San Marcos,216, 
+302,303,William Bradley Park,William Bradley Park,34.2435076,Local,1587 Linda Vista Dr,City of San Marcos,PRK1,City of San Marcos,216, 
+303,304,Cerro De Las Posas Park,Cerro De Las Posas Park,11.55066212,Local,1387 W Borden Rd,City of San Marcos,PRK2,City of San Marcos,216, 
+304,305,Hollandia Park,Hollandia Park,29.76181343,Local,12 Mission Hills Ct,City of San Marcos,PRK4,City of San Marcos,216, 
+305,306,Knob Hill Park,Knob Hill Park,2.99099569,Local,860 Avenida Ricardo,City of San Marcos,PRK6,City of San Marcos,216, 
+306,307,Montiel Park,Montiel Park,9.95594961,Local,2290 Montiel Rd,City of San Marcos,PRK7,City of San Marcos,216, 
+307,308,Walnut Grove Park,Walnut Grove Park,38.42682151,Local,2050 Sycamore Dr,City of San Marcos,PRK11,City of San Marcos,216, 
+308,309,Mission Sports Park,Mission Sports Park,14.05417792,Local,931 Bailey Ct,City of San Marcos,PRK13,City of San Marcos,216, 
+309,310,Helen Bougher Park,Helen Bougher Park,1.49966311,Local,1243 Borden Rd,City of San Marcos,PRK15,City of San Marcos,216, 
+310,311,The Laurels Park,The Laurels Park,0.78664805,Local,950 Hawthorne Ct,City of San Marcos,PRK16,City of San Marcos,216, 
+311,312,Discovery Hills Children's Park,Discovery Hills Children'S Park,0.9206325,Local,Via Vera Cruz,City of San Marcos,PRK17,City of San Marcos,216, 
+312,313,San Elijo Hills Mini Park,San Elijo Hills Mini Park,2.47515826,Local,Questhaven Rd,City of San Marcos,PRK27,City of San Marcos,216, 
+313,314,Buelow Park,Buelow Park,1.90448458,Local,300 Autumn Dr,City of San Marcos,PRK30,City of San Marcos,216, 
+314,315,Ridgeline Trailhead,Ridgeline Trailhead,1.91548486,Local,San Elijo Rd,City of San Marcos,PRK31,City of San Marcos,216, 
+315,316,Connors Park,Connors Park,4.66701174,Local,320 W San Marcos Blvd,City of San Marcos,PRK33,City of San Marcos,216, 
+316,317,Sunset Park,Sunset Park,17.63028015,Local,909 Puesta del Sol,City of San Marcos,PRK35,City of San Marcos,216, 
+317,318,Regency Hills Park,Regency Hills Park,0.95199377,Local,555 Calle Capistrano,City of San Marcos,PRK36,City of San Marcos,216, 
+318,319,Senior Center Tot lot,Senior Center Tot Lot,0.24722209,Local,111 Richmar Ave,City of San Marcos,PRK37,City of San Marcos,216, 
+319,320,Civic Center Park,Civic Center Park,0.61913005,Local,3 Civic Center Dr,City of San Marcos,PRK38,City of San Marcos,216, 
+320,321,Santa Fe Hills Park,Santa Fe Hills Park,1.00612575,Local,701 Via Barquero,City of San Marcos,PRK18,City of San Marcos,216, 
+321,322,Amigo Park,Amigo Park,0.74120594,Local,730 Camino Magnifico,City of San Marcos,PRK19,City of San Marcos,216, 
+322,323,Quail Valley Park,Quail Valley Park,1.27725991,Local,775 Avenida Leon,City of San Marcos,PRK20,City of San Marcos,216, 
+323,324,Creek View Park,Creek View Park,0.96375816,Local,1217 Corte Encanto,City of San Marcos,PRK21,City of San Marcos,216, 
+324,325,ALAMOSA PARK,Alamosa Park,6.91864047,Local,Mesa Drive and Alamosa Park Drive,City of Oceanside,73,Parks_Active_Use,211, 
+325,326,"KING, MARTIN LUTHER JR PARK","King, Martin Luther Jr Park",15.44852438,Local,4300 Mesa Drive,City of Oceanside,223,Parks_Active_Use,211, 
+326,327,LAKE PARK,Lake Park,9.91121933,Local,4970 Lake Blvd,City of Oceanside,237,Parks_Active_Use,211, 
+328,329,Scott Valley Park,Scott Valley Park,1.9975774,Local,1602 Willowhaven Rd,City of Encinitas,180,City of Encinitas,216, 
+329,330,Leo Mullen Sports Park,Leo Mullen Sports Park,5.83944417,Local,951 Via Cantebria,City of Encinitas,751,City of Encinitas,216, 
+330,331,Encinitas Community Park,Encinitas Community Park,43.33690098,Other,425 Santa Fe Dr,City of Encinitas,815,City of Encinitas,216, 
+331,332,Leucadia Roadside Park,Leucadia Roadside Park,0.17130335,Local,860 N Coast Highway 101,City of Encinitas,173,City of Encinitas,216, 
+332,333,Cottonwood Creek Park,Cottonwood Creek Park,8.08828967,Local,95 N Vulcan Ave,City of Encinitas,736,City of Encinitas,216, 
+333,334,Cardiff Sports Park,Cardiff Sports Park,10.83960574,Local,1661 Lake Dr,City of Encinitas,809,City of Encinitas,216, 
+345,346,San Elijo Park,San Elijo Park,21.13714381,Local,1105 Elfin Forest Rd,City of San Marcos,PRK9,City of San Marcos,216, 
+346,347,Simmons Family Park,Simmons Family Park,5.88079948,Local,2180 Rocky Point Way,City of San Marcos,PRK10,City of San Marcos,216, 
+347,348,Valley View Park,Valley View Park,0.9283177,Local,629 Corte Loren,City of San Marcos,PRK22,City of San Marcos,216, 
+348,349,Foothills Park,Foothills Park,1.10661278,Local,880 Avenida Abeja,City of San Marcos,PRK23,City of San Marcos,216, 
+349,350,Pebblestone Park,Pebblestone Park,0.76652396,Local,Glendale Ave,City of San Marcos,PRK24,City of San Marcos,216, 
+350,351,Optimist Park,Optimist Park,0.33691329,Local,891 Borden Rd,City of San Marcos,PRK25,City of San Marcos,216, 
+377,378,Mulberry Park,Mulberry Park,3.87021314,Local,751 Mulberry Dr,City of San Marcos,PRK8,City of San Marcos,216, 
+388,389,PALISADES PARK,Palisades Park,6.42997431,Local,Rancho del Oro and Vista Del Oro,City of Oceanside,353,Parks_Active_Use,211, 
+389,390,MARSHALL PARK,Marshall Park,3.01904697,Local,1404 Marshall Street,City of Oceanside,262,Parks_Active_Use,211, 
+390,391,"TODD, BUDDY PARK","Todd, Buddy Park",17.88496129,Local,Mesa Drive and Parnassus Circle,City of Oceanside,453,Parks_Active_Use,211, 
+393,394,Cabrillo National Monument,Cabrillo National Monument,153.27691301,National,"Cabrillo Memorial Drive, San Diego",State,SanGIS1,SanGIS,516,Boundary copied from Parcel layer
+398,399,CAPISTRANO PARK,Capistrano Park,12.01995591,Local,770 Capistrano Drive,City of Oceanside,128,Parks_Active_Use,211, 
+399,400,"LANDES, JOHN PARK","Landes, John Park",10.39243089,Local,2855 Cedar Road,City of Oceanside,240,Parks_Active_Use,211, 
+400,401,IVEY RANCH PARK,Ivey Ranch Park,14.42580904,Local,4101 Mission Avenue,City of Oceanside,212,Parks_Active_Use,211, 
+401,402,TYSON STREET PARK,Tyson Street Park,10.55564076,Local,206 S. Strand,City of Oceanside,462,Parks_Active_Use,211, 
+402,403,PACIFIC STREET LINEAR PARK,Pacific Street Linear Park,0.18268801,Local,Wisconsin to Surfrider,City of Oceanside,351,Parks_Active_Use,211, 
+420,421,RANCHO DEL ORO COMMUNITY PARK,Rancho Del Oro Community Park,10.25239644,Local,College and Empresa,City of Oceanside,383,Parks_Active_Use,211, 
+421,422,SPRING CREEK PARK,Spring Creek Park,2.68196971,Local,Melrose and Old Ranch,City of Oceanside,434,Parks_Active_Use,211, 
+422,423,FIRESIDE PARK,Fireside Park,3.48458408,Local,251 Fireside Street,City of Oceanside,187,Parks_Active_Use,211, 
+423,424,PACIFIC STREET LINEAR PARK,Pacific Street Linear Park,0.59560629,Local,Wisconsin to Surfrider,City of Oceanside,352,Parks_Active_Use,211, 
+424,425,RANCHO DEL ORO COMMUNITY PARK,Rancho Del Oro Community Park,4.0088816,Local,College and Empresa,City of Oceanside,382,Parks_Active_Use,211, 
+425,426,LIBBY LAKE PARK,Libby Lake Park,17.62361066,Local,424 Calle Montecito,City of Oceanside,245,Parks_Active_Use,211, 
+426,427,"ORTEGA, RON RECREATION PARK","Ortega, Ron Recreation Park",11.70704329,Local,Brooks and Maxson,City of Oceanside,345,Parks_Active_Use,211, 
+2624,2625,Felicita Park,Felicita County Park,51.96270711,Regional,"742 Clarence Lane, Escondido, CA 92025",County DPR,DPR-PRK-100001,County of San Diego,621,Regional Park
+2625,2626,Flinn Springs Park,Flinn Springs County Park,73.13024954,Regional,"14787 Old Highway 80, El Cajon, CA 92021",County DPR,DPR-PRK-100002,County of San Diego,621,Regional Park
+2626,2627,Goodland Acres Park,Goodland Acres County Park,1.34529802,Local,"8848 Troy St., Spring Valley, CA 91977",County DPR,DPR-PRK-100004,County of San Diego,621,Local Park
+2627,2628,Gopher Canyon Preserve,Gopher Canyon County Preserve,23.85792882,Open Space,"3151 Gopher Canyon Road, Vista, CA 92084",County DPR,DPR-PRK-100005,County of San Diego,621,Open Space Preserve
+2628,2629,Greenfield Preserve,Greenfield County Preserve,17.38780371,Open Space,"16118D 4S Ranch Parkway, San Diego, CA 92127",County DPR,DPR-PRK-100006,County of San Diego,621,Open Space Preserve
+2629,2630,Blue Sky Ecological Reserve,Blue Sky Ranch Ecological Reserve,83.76671789,Open Space,"16275 Espola Road, Poway, CA 92064",County DPR,DPR-PRK-100007,County of San Diego,621,Ecological Reserve
+2630,2631,Agua Caliente Park,Agua Caliente County Park,791.17130939,Regional,"39555 Great Southern Overland Stage Route of 1849,",County DPR,DPR-PRK-100012,County of San Diego,621,Regional Park
+2631,2632,Stoneridge Preserve,Stoneridge County Preserve,247.48896602,Open Space,"1400 Stoneridge Road, El Cajon, CA 92021",County DPR,DPR-PRK-100013,County of San Diego,621,Open Space Preserve
+2632,2633,Bancroft Park and Rock House,Bancroft County Park and Rock House,4.38772155,Local,"3542 James Circle, Spring Valley, CA 91977",County DPR,DPR-PRK-100014,County of San Diego,621,Local Park
+2633,2634,Christopher Hill Preserve,Christopher Hill County Preserve,69.32336105,Open Space,"16118D 4S Ranch Parkway, San Diego, CA 92127",County DPR,DPR-PRK-100016,County of San Diego,621,Open Space Preserve
+2634,2635,Clemmens Lane Park,Clemmens Lane County Park,0.54361484,Local,"344 Clemmens Lane, Fallbrook, CA 92028",County DPR,DPR-PRK-100017,County of San Diego,621,Local Park
+2635,2636,Cole Grade Park,Cole Grade Park,8.06859279,Local,"28600 School Bus Lane, Valley Center, CA 92082",County DPR,DPR-PRK-100018,County of San Diego,621,Local Park
+2636,2637,Borrego Springs Park,Borrego Springs County Park,15.97915151,Open Space,"2600 Country Club Road, Borrego Springs, CA 92004",County DPR,DPR-PRK-100019,County of San Diego,621,Open Space Preserve
+2637,2638,Boulder Oaks Preserve,Boulder Oaks County Preserve,2019.36271665,Open Space,"15140 Mussey Grade Road, Ramona, CA 92065",County DPR,DPR-PRK-100021,County of San Diego,621,Open Space Preserve
+2638,2639,Campo Stone Store,Campo Stone Store,0.82002943,Historic,"31130 State Highway 94, Campo, CA 92006",County DPR,DPR-PRK-100022,County of San Diego,621,Historic Site
+2639,2640,Chocolate Summit Preserve,Chocolate Summit County Preserve,0.22821193,Open Space,"9681 Chocolate Summit Drive, El Cajon, CA 91901",County DPR,DPR-PRK-100023,County of San Diego,621,Open Space Preserve
+2640,2641,Collier Park,Collier County Park,8.14913889,Local,"626 E. St., Ramona, CA 92065",County DPR,DPR-PRK-100024,County of San Diego,621,Local Park
+2641,2642,Cottonwood Park,Cottonwood County Park,5.45120452,Local,"2139 Windriver Road, El Cajon, CA 92019",County DPR,DPR-PRK-100025,County of San Diego,621,Local Park
+2642,2643,Mission Trails Regional Park,Mission Trails Regional Park,1521.39465871,Regional,"One Father Junipero Serra Trail, San Diego, CA 921",City of San Diego,DPR-PRK-100026,County of San Diego,621,Regional Park
+2643,2644,Damon Lane Park,Damon Lane County Park,29.87307536,Local,"11502 Calle Albara, El Cajon, CA 92019",County DPR,DPR-PRK-100027,County of San Diego,621,Local Park
+2644,2645,Del Parque Park,Del Parque County Park,8.73814894,Local,"10502 Via Del Parque, Spring Valley, CA 91978",County DPR,DPR-PRK-100028,County of San Diego,621,Local Park
+2645,2646,Diamond Trail Preserve,Diamond Trail County Preserve,19.8037694,Open Space,"1671 Brighton Glen Road, San Marcos, CA 92078",County DPR,DPR-PRK-100029,County of San Diego,621,Open Space Preserve
+2646,2647,Don Dussault Park,Don Dussault County Park,0.73828968,Local,"832 Alturas St., Fallbrook, CA 92028",County DPR,DPR-PRK-100030,County of San Diego,621,Local Park
+2647,2648,Dos Picos Park,Dos Picos County Park,78.12966815,Regional,"17953 Dos Picos Park Road, Ramona, CA 92065",County DPR,DPR-PRK-100031,County of San Diego,621,Regional Park
+2648,2649,Estrella Park,Estrella County Park,6.85450594,Local,"9810 Estrella Drive, Spring Valley, CA 91977",County DPR,DPR-PRK-100035,County of San Diego,621,Local Park
+2649,2650,Eucalyptus Park,Eucalyptus County Park,6.74935171,Local,"9125 Edgewood Drive, Spring Valley, CA 91977",County DPR,DPR-PRK-100036,County of San Diego,621,Local Park
+2650,2651,Fallbrook Community Center,Fallbrook Community Center,8.54740868,Local,"341 Heald Lane, Fallbrook, CA 92028",County DPR,DPR-PRK-100037,County of San Diego,621,Facility
+2651,2652,Guajome Park,Guajome County Park,389.85650833,Regional,"3000 Guajome Lake Road, Oceanside, CA 92057",County DPR,DPR-PRK-100038,County of San Diego,621,Regional Park
+2652,2653,Heritage Park,Heritage County Park,8.44045596,Historic,"2454 Heritage Park Row, San Diego, CA 92110",County DPR,DPR-PRK-100039,County of San Diego,621,Historic Site
+2653,2654,Hillsdale Park,Hillsdale County Park,0.53036291,Local,"1301 Brabhan St., El Cajon, CA, 92019",County DPR,DPR-PRK-100040,County of San Diego,621,Local Park
+2654,2655,Hilton Head Park,Hilton Head County Park,9.90770039,Local,"1605 Hilton Head Road, El Cajon, CA 92019",County DPR,DPR-PRK-100041,County of San Diego,621,Local Park
+2655,2656,Ildica Park,Ildica County Park,0.51052648,Local,"8604 Ildica St., Spring Valley, CA 91977",County DPR,DPR-PRK-100042,County of San Diego,621,Local Park
+2656,2657,In-Ko-Pah Park,In-Ko-Pah County Park,159.10723963,Open Space,"48682 In-Ko-Pah Park Road, Jacumba, CA 91934",County DPR,DPR-PRK-100043,County of San Diego,621,Open Space Preserve
+2657,2658,Jess Martin Park,Jess Martin County Park,8.4280668,Local,"2655 Highway 79, Julian, CA 92036",County DPR,DPR-PRK-100044,County of San Diego,621,Local Park
+2658,2659,Rios Baseball Park,Rios Baseball Park,10.06614952,Local,"9700 Flinn Springs Road, El Cajon, CA 92021",County DPR,DPR-PRK-100045,County of San Diego,621,Sports Park
+2659,2660,Sage Hill Preserve,Sage Hill County Preserve,231.45319382,Open Space,"742 Clarence Lane, Escondido, CA 92025",County DPR,DPR-PRK-100047,County of San Diego,621,Open Space Preserve
+2660,2661,San Elijo Lagoon Reserve,San Elijo Lagoon and Ecological Reserve,971.92959199,Open Space,"2710 Manchester Ave., Cardiff-by-the-Sea, CA 92007",County DPR,DPR-PRK-100048,County of San Diego,621,Ecological Reserve
+2661,2662,Santa Margarita Preserve,Santa Margarita County Preserve,211.27896874,Open Space,"37385 De Luz Road, Fallbrook, CA 92028",County DPR,DPR-PRK-100049,County of San Diego,621,Open Space Preserve
+2662,2663,Santa Ysabel East Preserve,Santa Ysabel East County Preserve,4573.25913042,Open Space,"500 Farmer Road, Julian, CA 92036",County DPR,DPR-PRK-100050,County of San Diego,621,Open Space Preserve
+2663,2664,Santa Ysabel West Preserve,Santa Ysabel West County Preserve,1738.04911352,Open Space,"29510 Highway 78, Santa Ysabel, CA 92070",County DPR,DPR-PRK-100051,County of San Diego,621,Open Space Preserve
+2664,2665,Simon Preserve,Simon County Preserve,616.92562159,Open Space,"23500 Bassett St., Ramona, CA 92065",County DPR,DPR-PRK-100052,County of San Diego,621,Open Space Preserve
+2665,2666,South Lane Park,South Lane County Park,9.22586398,Local,"218 South Lane, El Cajon, CA 92021",County DPR,DPR-PRK-100053,County of San Diego,621,Local Park
+2666,2667,Spring Valley Park,Spring Valley County Park,5.17408077,Local,"8735 Jamacha Blvd., Spring Valley, CA 91977",County DPR,DPR-PRK-100054,County of San Diego,621,Local Park
+2667,2668,Julian Pioneer Park / Museum,Julian Pioneer County Park / Museum,1.34868242,Historic,"2811 Washington St., Julian, CA 92036",County DPR,DPR-PRK-100055,County of San Diego,621,Historic Site
+2668,2669,Knollwood Preserve,Knollwood County Preserve,20.68746435,Open Space,"29645 Platanus Drive, Escondido, CA 92026",County DPR,DPR-PRK-100056,County of San Diego,621,Open Space Preserve
+2669,2670,Lake Morena Park,Lake Morena County Park,3183.936251,Regional,"2550 Lake Morena Drive, Campo, CA 91906",County DPR,DPR-PRK-100057,County of San Diego,621,Regional Park
+2670,2671,Lakeside Sports Park,Lakeside Sports Park,15.74212818,Local,"10030 Marathon Parkway, Lakeside, CA 92040",County DPR,DPR-PRK-100058,County of San Diego,621,Sports Park
+2671,2672,Lamar Park,Lamar County Park,8.78756004,Local,"3180 Bancroft Drive, Spring Valley, CA 91977",County DPR,DPR-PRK-100060,County of San Diego,621,Local Park
+2672,2673,Daley Preserve,Lawrence and Barbara Daley County Preserve,580.78601461,Open Space,"17100 Campo Road, Dulzura, CA 91917",County DPR,DPR-PRK-100061,County of San Diego,621,Open Space Preserve
+2673,2674,Lincoln Acres Park,Lincoln Acres County Park,1.66342794,Local,"2717 Granger Ave., National City, CA 91950",County DPR,DPR-PRK-100062,County of San Diego,621,Local Park
+2674,2675,Lindo Lake Park,Lindo Lake County Park,54.56517415,Local,"12660 Lindo Lane, Lakeside, CA 92040",County DPR,DPR-PRK-100063,County of San Diego,621,Local Park
+2675,2676,Live Oak Park,Live Oak County Park,26.99642031,Local,"2746 Reche Road, Fallbrook, CA 92028",County DPR,DPR-PRK-100064,County of San Diego,621,Local Park
+2676,2677,Lonny Brewer Park,Lonny Brewer County Park,5.21772828,Local,"10925 Fury Lane, El Cajon, CA 92019",County DPR,DPR-PRK-100065,County of San Diego,621,Local Park
+2677,2678,Los Coches Historical Marker,Los Coches Historical Marker,0.00340448,Historic,UNK,County DPR,DPR-PRK-100066,County of San Diego,621,Historic Site
+2678,2679,Lusardi Creek Preserve,Lusardi Creek County Preserve,225.96097192,Open Space,"16500 Rio Vista Road, San Diego, CA 92127",County DPR,DPR-PRK-100067,County of San Diego,621,Open Space Preserve
+2679,2680,Magdalena Ecke Preserve,Magdalena Ecke County Preserve,29.79319772,Open Space,"2710 Manchester Ave. Cardiff, CA 92007",County DPR,DPR-PRK-100068,County of San Diego,621,Open Space Preserve
+2680,2681,Mason Preserve,Mason County Preserve,368.02546411,Open Space,"1190 Harris Ranch Road, Potrero, CA 91963",County DPR,DPR-PRK-100069,County of San Diego,621,Open Space Preserve
+2681,2682,Mexican Canyon Preserve,Mexican Canyon County Preserve,0.24289992,Open Space,"14270 Mexican Canyon Road, Jamul CA 91935",County DPR,DPR-PRK-100070,County of San Diego,621,Open Space Preserve
+2682,2683,Mt. Olympus Preserve,Mt. Olympus County Preserve,800.98467119,Open Space,"7000 Mount Olympus Valley Road, Fallbrook CA 92028",County DPR,DPR-PRK-100071,County of San Diego,621,Open Space Preserve
+2683,2684,Mountain Springs Park,Mountain Springs County Park,132.84227351,Open Space,UNK,County DPR,DPR-PRK-100072,County of San Diego,621,Open Space Preserve
+2684,2685,Nancy Jane Park,Nancy Jane County Park,1.88257159,Local,"120 N. Park Drive, El Cajon, CA 92021",County DPR,DPR-PRK-100074,County of San Diego,621,Local Park
+2685,2686,Old Ironsides Park,Old Ironsides County Park,3.36653375,Local,"326 Harbison Canyon Road, El Cajon, CA 92020",County DPR,DPR-PRK-100076,County of San Diego,621,Local Park
+2686,2687,Old Springs Preserve,Old Springs County Preserve,307.62798813,Open Space,"2465 Old Springs Road, Borrego Springs, CA 92004",County DPR,DPR-PRK-100077,County of San Diego,621,Open Space Preserve
+2687,2688,Furby North Preserve,Furby North County Preserve,78.52697241,Open Space,"4500 Otay Mesa Road, San Diego, CA 92154",County DPR,DPR-PRK-100079,County of San Diego,621,Open Space Preserve
+2688,2689,Pala Mesa Preserve,Pala Mesa County Preserve,17.19045662,Open Space,"220 Rice Canyon Road, Fallbrook, CA 92028",County DPR,DPR-PRK-100080,County of San Diego,621,Open Space Preserve
+2689,2690,Palomar Mountain Park,Palomar Mountain County Park,3.446078,Local,"21818 Crestline Road, Palomar Mountain, CA 92060",County DPR,DPR-PRK-100081,County of San Diego,621,Local Park
+2690,2691,Potrero Park,Potrero County Park,138.05964926,Regional,"24800 Potrero Park Drive, Potrero, CA 91963",County DPR,DPR-PRK-100082,County of San Diego,621,Regional Park
+2691,2692,San Diego Botanic Garden,San Diego Botanic Garden,28.30953358,Local,"230 Quail Gardens Drive, Encinitas, CA 92024",County DPR,DPR-PRK-100083,County of San Diego,621,Garden
+2692,2693,Rainbow Park,Rainbow County Park,4.34205473,Local,"5157 5th St., Rainbow, CA 92028",County DPR,DPR-PRK-100084,County of San Diego,621,Local Park
+2693,2694,Ramona Grasslands Preserve,Ramona Grasslands County Preserve,3513.96283177,Open Space,"17460 Highland Valley Road, Ramona, CA 92065",County DPR,DPR-PRK-100085,County of San Diego,621,Open Space Preserve
+2694,2695,Santa Maria Creek Park,Santa Maria Creek County Park,1.17733303,Local,"1700 Montecito Road, Ramona, CA 92065",County DPR,DPR-PRK-100086,County of San Diego,621,Local Park
+2695,2696,Rancho Guajome Adobe,Rancho Guajome Adobe,150.86154865,Historic,"3000 Guajome Lake Road, Oceanside, CA 92057",County DPR,DPR-PRK-100087,County of San Diego,621,Historic Site
+2696,2697,Rancho Penasquitos Adobe,Rancho Penasquitos Adobe,67.06971396,Historic,"12122 Canyonside Park, San Diego 92129",County DPR,DPR-PRK-100088,County of San Diego,621,Historic Site
+2697,2698,Steele Canyon Park,Steele Canyon County Park,8.31112165,Local,"2825 Steele Canyon Road, El Cajon, CA 92019",County DPR,DPR-PRK-100090,County of San Diego,621,Local Park
+2698,2699,Sweetwater Lane Sports Complex,Sweetwater Lane Sports Complex,10.42629003,Local,UNK,County DPR,DPR-PRK-100092,County of San Diego,621,Sports Park
+2699,2700,Del Dios Highlands Preserve,Del Dios Highlands County Preserve,781.9965356,Open Space,"9860 Del Dios Highway, Escondido, CA 92025",County DPR,DPR-PRK-100093,County of San Diego,621,Open Space Preserve
+2700,2701,Tijuana River Valley Park,Tijuana River Valley Regional Park,1778.81936081,Regional,"2721 Monument Road, San Diego, CA 92154",County DPR,DPR-PRK-100094,County of San Diego,621,Regional Park
+2701,2702,Santa Fe Valley Preserve,Santa Fe Valley Preserve,298.69085669,Open Space,"8600 Del Dios Highway, San Diego, CA 92127",County DPR,DPR-PRK-100095,County of San Diego,621,Open Space Preserve
+2702,2703,Val Sereno Preserve,Val Sereno County Preserve,54.74246085,Open Space,"1756 Highland Drive, Del Mar, CA 92104",County DPR,DPR-PRK-100096,County of San Diego,621,Open Space Preserve
+2703,2704,Vallecito Park,Vallecito County Park,57.59283254,Regional,"37349 Great Southern Overland Stage Route 1849, Ju",County DPR,DPR-PRK-100097,County of San Diego,621,Regional Park
+2704,2705,Volcan Mountain Preserve,Volcan Mountain County Preserve,3012.90324122,Open Space,"1209 Farmer Road/Wynola Road, Julian, CA 92036",County DPR,DPR-PRK-100099,County of San Diego,621,Open Space Preserve
+2705,2706,Whaley House Complex,Whaley House Complex,0.51013597,Historic,"2476 San Diego Ave., San Diego, CA 92110",County DPR,DPR-PRK-100100,County of San Diego,621,Historic Site
+2706,2707,Wilderness Gardens Preserve,Wilderness Gardens County Preserve,749.80466453,Open Space,"14209 Highway 76, Pala, CA 92059",County DPR,DPR-PRK-100101,County of San Diego,621,Open Space Preserve
+2707,2708,William Heise Park,William Heise County Park,1016.2202687,Regional,"4945 Heise Park Road, Julian, CA 92036",County DPR,DPR-PRK-100102,County of San Diego,621,Regional Park
+2708,2709,Woodhaven Park,Woodhaven County Park,8.21347739,Local,"1995 Donahue Drive, El Cajon, CA 92019",County DPR,DPR-PRK-100103,County of San Diego,621,Local Park
+2709,2710,Eastview Park,Eastview County Park,185.57545143,Local,"3218 Summit Meadow Road, Bonita, CA 91902",County DPR,DPR-PRK-100155,County of San Diego,621,Local Park
+2710,2711,Pine Valley Park,Pine Valley County Park,55.56419606,Local,"28810 Old Highway 80, Pine Valley, CA 91962",County DPR,DPR-PRK-100107,County of San Diego,621,Local Park
+2711,2712,San Dieguito Park,San Dieguito County Park,119.57411071,Regional,"1756 Highland Drive, Del Mar, CA 92014",County DPR,DPR-PRK-100110,County of San Diego,621,Regional Park
+2712,2713,4S Ranch Liberty Park,4S Ranch Liberty Park,4.75473427,Local,"17750 Hunters Ridge Road, San Diego, CA 92127",County DPR,DPR-PRK-100112,County of San Diego,621,Local Park
+2713,2714,Lakeside Equestrian Facility,Lakeside Equestrian Facility,13.90848748,Regional,UNK,County DPR,DPR-PRK-100113,County of San Diego,621,Regional Park
+2714,2715,Otay Lakes Park,Otay Lakes County Park,10.349525,Local,"2270 Weste Road, Chula Vista, CA 91915",County DPR,DPR-PRK-100115,County of San Diego,621,Local Park
+2715,2716,Barnett Ranch Preserve,Barnett Ranch County Preserve,745.05353786,Open Space,"1500 Deviney Lane/San Vicente Road, Ramona, CA 920",County DPR,DPR-PRK-100122,County of San Diego,621,Open Space Preserve
+2716,2717,Escondido Creek Preserve,Escondido Creek County Preserve,647.98678864,Open Space,"742 Clarence Lane, Escondido, CA 92025",County DPR,DPR-PRK-100123,County of San Diego,621,Open Space Preserve
+2717,2718,Bottle Peak Preserve,Bottle Peak County Preserve,380.57383263,Open Space,UNK,County DPR,DPR-PRK-100124,County of San Diego,621,Open Space Preserve
+2718,2719,Waterfront Park,Waterfront Park,12.69381457,Regional,"1600 Pacific Highway, San Diego, CA 92101",County DPR,DPR-PRK-100130,County of San Diego,621,Regional Park
+2719,2720,Spring Valley Gym / Teen Ctr,Spring Valley Gymnasium / Teen Center,1.61127481,Local,"838 Kempton St., Spring Valley, Ca 91977",County DPR,DPR-PRK-100131,County of San Diego,621,Facility
+2720,2721,Hellhole Canyon Preserve,Hellhole Canyon County Preserve,2609.97297254,Open Space,"19324 Santee Lane, Valley Center, CA 92082",County DPR,DPR-PRK-100134,County of San Diego,621,Open Space Preserve
+2721,2722,Keys Creek Preserve,Keys Creek County Preserve,190.55656062,Open Space,UNK,County DPR,DPR-PRK-100135,County of San Diego,621,Open Space Preserve
+2722,2723,4S Ranch Sports Park,4S Ranch Sports Park,18.42516098,Local,"16118D 4S Ranch Parkway, San Diego, CA 92127",County DPR,DPR-PRK-100136,County of San Diego,621,Sports Park
+2723,2724,4S Ranch Patriot Park,4S Ranch Patriot Park,5.77025285,Local,"10502 Paseo de Linda, San Diego, CA 92127",County DPR,DPR-PRK-100137,County of San Diego,621,Local Park
+2724,2725,4S Ranch Heritage Park,4S Ranch Heritage Park,5.4000008,Local,"16789 Deer Ridge Road, San Diego, CA 92127",County DPR,DPR-PRK-100138,County of San Diego,621,Local Park
+2725,2726,4S Ranch Homestead Park,4S Ranch Homestead Park,1.79004421,Local,"9989 Fox Valley Road, San Diego, CA 92127",County DPR,DPR-PRK-100139,County of San Diego,621,Local Park
+2726,2727,4S Ranch Community Park,4S Ranch Community Park,3.24181662,Local,"16118 4S Ranch Parkway, San Diego, CA 92127",County DPR,DPR-PRK-100140,County of San Diego,621,Local Park
+2727,2728,Luelf Pond Preserve,Luelf Pond County Preserve,87.0734025,Open Space,"Corner of Dye Road and Southern Oak Road, Ramona, ",County DPR,DPR-PRK-100141,County of San Diego,621,Open Space Preserve
+2728,2729,Holly Oaks Preserve,Holly Oaks County Preserve,41.66188278,Open Space,"3000 Dunck Pond Lane, Ramona, CA 92065",County DPR,DPR-PRK-100142,County of San Diego,621,Open Space Preserve
+2729,2730,Spring Valley Community Center,Spring Valley Community Center,0.94465875,Local,"8735 Jamacha Blvd., Spring Valley, CA 91977",County DPR,DPR-PRK-100143,County of San Diego,621,Facility
+2730,2731,Lakeside Community Center,Lakeside Community Center,1.71997331,Local,"9841 Vine St., Lakeside, CA 92040",County DPR,DPR-PRK-100144,County of San Diego,621,Facility
+2731,2732,Sweetwater Regional Park,Sweetwater Regional Park,349.18497371,Regional,UNK,County DPR,DPR-PRK-100106,County of San Diego,621,Regional Park
+2732,2733,Provence House,Provence House,0.91914034,Regional,"4370 Sweetwater Road, Bonita, CA 91902",County DPR,DPR-PRK-100146,County of San Diego,621,Regional Park
+2733,2734,Dictionary Hill Preserve,Dictionary Hill County Preserve,174.32981759,Open Space,"2036 S. Barcelona St, Spring Valley, CA 91977",County DPR,DPR-PRK-100151,County of San Diego,621,Open Space Preserve
+2734,2735,Mountain Meadow Preserve,Mountain Meadow County Preserve,669.06711464,Open Space,"27211 Mountain Meadow Rd, Escondido, CA 92026",County DPR,DPR-PRK-100153,County of San Diego,621,Open Space Preserve
+2735,2736,Peutz Valley Preserve,Peutz Valley County Preserve,254.63095704,Open Space,"Peutz Valley Rd, Alpine CA 91901",County DPR,DPR-PRK-100156,County of San Diego,621,Open Space Preserve
+2736,2737,Four Gee Park,Four Gee County Park,2.73050223,Local,"161180 4S Ranch Parkway, San Diego, CA 92127",County DPR,DPR-PRK-100129,County of San Diego,621,Local Park
+2737,2738,Alpine Park,Alpine County Park,92.5989907,Local,"2480 South Grade Road, Alpine, CA 91901",County DPR,DPR-PRK-100157,County of San Diego,621,Local Park
+2738,2739,Lakeside Teen Center,Lakeside Teen Center,0.4718213,Local,"9911 Vine St., Lakeside, CA 92040",County DPR,DPR-PRK-100158,County of San Diego,621,Facility
+2739,2740,SR67 Preserve,SR67 County Preserve,215.28073357,Open Space,UNK,County DPR,DPR-PRK-100159,County of San Diego,621,Open Space Preserve
+2740,2741,Otay Valley Regional Park,Otay Valley Regional Park,4938.99649122,Regional,"2270 Wueste Road, Chula Vista, CA 91915",County DPR,DPR-PRK-100160,County of San Diego,621,Regional Park
+2741,2742,Mt. Woodson Gateway Preserve,Mt. Woodson Gateway County Preserve,87.87208228,Open Space,"Mt Woodson Rd and SR67, Ramona CA 92065",County DPR,DPR-PRK-100161,County of San Diego,621,Open Space Preserve
+2742,2743,Oakoasis Preserve,Oakoasis County Preserve,391.12342109,Open Space,"12620 Wildcat Canyon Road, Lakeside, CA 92040",County DPR,DPR-PRK-100075,County of San Diego,621,Open Space Preserve
+2743,2744,Louis A. Stelzer Park,Louis A. Stelzer County Park,214.18590793,Regional,"11470 Wildcat Canyon Road, Lakeside, CA 92040",County DPR,DPR-PRK-100091,County of San Diego,621,Regional Park
+2744,2745,Louis A. Stelzer Park,Louis A. Stelzer County Park,154.67319892,Regional,"11470 Wildcat Canyon Road, Lakeside, CA 92040",County DPR,DPR-PRK-100091,County of San Diego,621,Regional Park
+2745,2746,Los Penasquitos Preserve,Los Penasquitos Canyon County Preserve,117.39320125,Open Space,"12122 Canyonside Park, San Diego, CA 92129",County DPR,DPR-PRK-100104,County of San Diego,621,Open Space Preserve
+2746,2747,Los Penasquitos Preserve,Los Penasquitos Canyon County Preserve,81.14139529,Open Space,"12122 Canyonside Park, San Diego, CA 92129",County DPR,DPR-PRK-100104,County of San Diego,621,Open Space Preserve
+2747,2748,Sycamore Canyon / Goodan Ranch,Sycamore Canyon / Goodan Ranch County Preserve,2312.09789817,Open Space,"16281 Sycamore Canyon Road, Poway, CA 92064",County DPR,DPR-PRK-100003,County of San Diego,621,Open Space Preserve
+2748,2749,Sycamore Canyon / Goodan Ranch,Sycamore Canyon / Goodan Ranch County Preserve,460.59501054,Open Space,"16281 Sycamore Canyon Road, Poway, CA 92064",County DPR,DPR-PRK-100003,County of San Diego,621,Open Space Preserve
+2749,2750,Historic Flume Corridor,Historic Flume Corridor,28.899833,Historic,TBD,County DPR,DPR-PRK-100162,County of San Diego,621,Historic Site
+2750,2751,Cactus Park,Cactus County Park,46.04969048,Local,"10610 Ashwood St., Lakeside, CA 92040",County DPR,DPR-PRK-100133,County of San Diego,621,Sports Park
+2751,2752,Cactus Park,Cactus County Park,15.64796956,Local,"10610 Ashwood St., Lakeside, CA 92040",County DPR,DPR-PRK-100133,County of San Diego,621,Sports Park
+2752,2753,El Monte Park,El Monte County Park,65.50694136,Regional,"15805 El Monte Road, Lakeside, CA 92040",County DPR,DPR-PRK-100034,County of San Diego,621,Regional Park
+2753,2754,El Monte Park,El Monte County Park,21.73810458,Regional,"15805 El Monte Road, Lakeside, CA 92040",County DPR,DPR-PRK-100034,County of San Diego,621,Regional Park
+2754,2755,Lakeside Linkage Preserve,Lakeside Linkage County Preserve,132.09236065,Open Space,"9119 Manajo Road, Lakeside, CA 92040",County DPR,DPR-PRK-100059,County of San Diego,621,Open Space Preserve
+2755,2756,Lakeside Linkage Preserve,Lakeside Linkage County Preserve,76.9838537,Open Space,"9119 Manajo Road, Lakeside, CA 92040",County DPR,DPR-PRK-100059,County of San Diego,621,Open Space Preserve
+2756,2757,Old Ironsides Park,Old Ironsides County Park,1.05413474,Local,"326 Harbison Canyon Road, El Cajon, CA 92019",County DPR,DPR-PRK-100076,County of San Diego,621,Local Park
+2757,2758,Ramona Grasslands Preserve,Ramona Grasslands County Preserve,121.35810379,Open Space,"17460 Highland Valley Road, Ramona, CA 92065",County DPR,DPR-PRK-100163,County of San Diego,621,Open Space Preserve
+2758,2759,Calavo Park,Calavo Park,9.17272887,Local,Caltrans deed,County DPR,DPR-PRK-100164,County of San Diego,621,Local Park
+2763,2764,San Luis Rey River Park,San Luis Rey River Park,712.25926826,Open Space,"5521 W. Lilac Road, Bonsall, CA 92003",County DPR,DPR-PRK-100114,County of San Diego,621,Open Space Preserve
+2764,2765,Horse Creek Ridge Sports Park,Horse Creek Ridge Sports Park,8.39849537,Local,"240 Gold Palomino Way, Fallbrook CA, 92028",County DPR,DPR-PRK-100170,County of San Diego,621,Sports Park
+2766,2767,Harmony Grove Community Park,Harmony Grove Village Community Park,3.57524533,Local,"2982 Harmony Grove Road, Escondido, CA 92029",County DPR,DPR-PRK-100172,County of San Diego,621,Local Park
+2767,2768,Harmony Grove Equestrian Park,Harmony Grove Village Equestrian Park,3.6472446,Local,"2850 Harmony Grove Road, Escondido, CA 92029",County DPR,DPR-PRK-100173,County of San Diego,621,Local Park
+2768,2769,Sweetwater Place Park,Sweetwater Place Park,2.06498978,Local,Sweetwater Springs Boulevard and Jamacha Boulevard,County DPR,DPR-PRK-100168,County of San Diego,621,Local Park
+2769,2770,Star Ranch,Star Ranch,2149.84744689,Open Space,"100 Bell Canyon Rd, Trabuco Canyon, CA 92679",County DPR,DPR-PRK-100174,County of San Diego,621,Open Space Preserve
