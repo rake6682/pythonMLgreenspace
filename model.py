@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import time
 
 def get_coordinates(park_name):
     url = 'https://nominatim.openstreetmap.org/search'
@@ -41,6 +42,7 @@ for index, row in sizes_df.iterrows():
     if latitude is not None and longitude is not None:
         # Add park location to the list
         park_locations.append({'name': park_name, 'latitude': latitude, 'longitude': longitude, 'size': park_size})
+    time.sleep(1)
 
 # Convert the list of park locations into a DataFrame
 park_locations_df = pd.DataFrame(park_locations)
